@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="my_name">Isaac Kinuthia</string>
+    <string name="my_track">Track: Android</string>
+    <string name="my_country">Country: Kenya</string>
+    <string name="my_email">Email: johhnykinthia@gmail.com</string>
+    <string name="my_phone_number">Phone Number: 0701447794</string>
+    <string name="my_slack_username">Slack Username:johhnykinuthia@gmail.com</string>
+</resources>
